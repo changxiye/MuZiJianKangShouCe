@@ -1,0 +1,400 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	{
+		"path": "pages/index/index",
+		"style": {
+			"h5": {
+				"titleNView": {
+					"titleText": "母子健康手册"
+				}
+			}
+		}
+	},
+	{
+			"path": "pages/gestate_type/FillIn_pregnant",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "填写信息"
+					}
+				}
+			}
+		},
+	
+		{
+			"path": "pages/mine/MyPush",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "我的推送"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "个人中心"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/attestation",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "身份认证"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/course/course",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "我的课程"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/record/record",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "胎动记录"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/gestate_type/gestate_type",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "切换孕育状态"
+					}
+				}
+			}
+		},
+
+
+
+		{
+			"path": "pages/self_testing/histogram",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "检测结果柱状图"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/hospital/hospital",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "附近医院"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/hospital/hospital_info",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "医院详情"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/antenatal/exemption",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "免疫计划"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/antenatal/antenatal",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "产检计划"
+					}
+				}
+			}
+		},
+
+
+		{
+			"path": "pages/mine/statement",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "免责声明"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/contribute",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "投稿"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/mine/twitter",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "我的推客"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/course/school",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "学校"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/course/article",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "文章"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/course/course_info",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "课程介绍"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/diary/publish",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "发布日记"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/diary/diary",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "孕育日记"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/self_testing/wave",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "自我检测波浪图"
+					}
+				}
+			}
+		},
+
+		{
+			"path": "pages/self_testing/testing_result",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "检测结果"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/self_testing/self_testing",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "心里检测"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/record/reckon",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "数胎动"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/shoppingCart",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "购物车"
+					}
+				}
+			}
+		}
+
+
+		, {
+			"path": "pages/mine/Take",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "提现"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/MyOrder",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "我的订单"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/Coupon",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "优惠券"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/Integral",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "积分"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/ContributeRecord",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "会员投稿"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/SignIn",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "签到"
+					}
+				}
+			}
+		}, {
+			"path": "pages/mine/MyAddress",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "地址管理"
+					}
+				}
+			}
+		}
+
+		, {
+			"path": "pages/mine/NewAddress",
+			"style": {
+				"h5": {
+					"titleNView": {
+						"titleText": "新建收货人"
+					}
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/gestate_type/FillIn_infant",
+            "style": {
+            	"h5": {
+            		"titleNView": {
+            			"titleText": "填写资料"
+            		}
+            	}
+            }
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"tabBar": {
+		"color": "#B5B5B5",
+		"selectedColor": "#FD6801",
+		"borderStyle": "black",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/tabbar/index.png",
+				"selectedIconPath": "static/tabbar/indexSelected.png"
+			},
+			{
+				"pagePath": "pages/hospital/hospital",
+				"text": "附近",
+				"iconPath": "static/tabbar/class.png",
+				"selectedIconPath": "static/tabbar/classSelected.png"
+			},
+			{
+				"pagePath": "pages/course/school",
+				"text": "学校",
+				"iconPath": "static/tabbar/cart.png",
+				"selectedIconPath": "static/tabbar/cartSelected.png"
+			},
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/tabbar/my.png",
+				"selectedIconPath": "static/tabbar/mySelected.png"
+			}
+		]
+	}
+}
